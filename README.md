@@ -16,19 +16,21 @@ This project demonstrates how to use Python's `deque` and PyShiny's reactive val
 ## **Setup Instructions**
 
 ### **1. Create and Activate the Virtual Environment**
-```
+
 # Create virtual environment
 py -m venv .venv
 
 # Activate virtual environment
 .venv\Scripts\Activate
-2. Install Dependencies
+
+### 2. Install Dependencies
 Install all required packages using requirements.txt and ensure they are up-to-date:
 
 
 
 py -m pip install --upgrade -r requirements.txt
-3. Update Dependencies
+
+### 3. Update Dependencies
 After making any changes to dependencies, update the requirements.txt file:
 
 
